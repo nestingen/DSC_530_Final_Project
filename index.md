@@ -7,3 +7,5 @@ I think there could be more analyzed on with a log transformation. I like that t
 I made an assumption to group all of the minimum nights stay together but the histogram was bi-modal. There was a peak at 1 night per stay and another at 30 nights per stay. It seemed like some Airbnb’s operated on a monthly basis so these would be priced differently.
 
 One challenge I faced was understanding how to implement a log transformation into my analysis. I researched this topic but do not feel comfortable yet preforming it. Overall, I am proud of this project and fell like the analysis can be used to understands what drives price of Airbnbs in New York City.
+
+**[Click to Go Back to Homepage](https://nestingen.github.io/)**
