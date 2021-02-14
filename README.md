@@ -16,3 +16,7 @@ seemed like some Airbnb’s operated on a monthly basis so these would be priced
 
 One challenge I faced was understanding how to implement a log transformation into my analysis. I researched this topic but do not feel comfortable yet preforming it. Overall, 
 I am proud of this project and fell like the analysis can be used to understands what drives price of Airbnbs in New York City. 
+
+<p align="center"> 
+  <img src="(https://user-images.githubusercontent.com/54515596/107891212-aaac1280-6ee2-11eb-9501-7d2f3ea674e7.png" width ="700">
+</p>
