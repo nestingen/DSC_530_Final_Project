@@ -1,4 +1,4 @@
-# Predictive-Analytics-New-York-AirBnB
+## Predictive-Analytics-New-York-AirBnB
 
 Data Interrogation and Predictive Analysis
 Airbnb Prices
@@ -18,5 +18,5 @@ One challenge I faced was understanding how to implement a log transformation in
 I am proud of this project and fell like the analysis can be used to understands what drives price of Airbnbs in New York City. 
 
 <p align="center"> 
-  <img src="(https://user-images.githubusercontent.com/54515596/107891212-aaac1280-6ee2-11eb-9501-7d2f3ea674e7.png" width ="700">
+  <img src="https://user-images.githubusercontent.com/54515596/107891212-aaac1280-6ee2-11eb-9501-7d2f3ea674e7.png" width ="700">
 </p>
